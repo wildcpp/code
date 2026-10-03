@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "计算测试版\\x64\\Debug\\计算测试版.obj",
+            "outputs": [
+                "计算测试版\\x64\\Debug\\计算测试版.cpp.obj.dt.module.json",
+                "计算测试版\\x64\\Debug\\计算测试版.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
