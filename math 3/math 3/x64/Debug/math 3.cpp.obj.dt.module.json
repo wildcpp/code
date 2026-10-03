@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "math 3\\x64\\Debug\\math 3.obj",
+            "outputs": [
+                "math 3\\x64\\Debug\\math 3.cpp.obj.dt.module.json",
+                "math 3\\x64\\Debug\\math 3.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
