@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "测试项--三角形\\x64\\Release\\测试项--三角形.obj",
+            "outputs": [
+                "测试项--三角形\\x64\\Release\\测试项--三角形.cpp.obj.dt.module.json",
+                "测试项--三角形\\x64\\Release\\测试项--三角形.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
