@@ -1,2 +1,3 @@
 # code
-none
+Some miscellaneous code！                                     
+Only need a terminal
